@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_filter"
+          android:icon="@drawable/filters"
+          android:title="@string/title_filter"
+          app:showAsAction="always">
+    </item>
+
+    <item android:id="@+id/menu_sort"
+          android:icon="@drawable/sort_icon"
+          android:title="@string/menu_sort"
+          app:showAsAction="always">
+    </item>
+
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lawyerly</string>
+    <string name="home_screen_banner">home screen banner</string>
+    <string name="under_development">Under Development</string>
+    <string name="title_filter">filters</string>
+    <string name="menu_sort">sort</string>
+    <string name="hour">£60.90/hour</string>
+    <string name="label_speciality">Speciality</string>
+    <string name="lawyer_name">Lawyer\'s Name</string>
+    <string name="label_currency">£</string>
+    <string name="lawyer_favorite_icon">lawyer_favorite_icon</string>
+    <string name="right_arrow_icon">right_arrow_icon</string>
+    <string name="rating_icon">rating icon</string>
+    <string name="lawyer_profile_img">lawyer profile img</string>
+    <string name="lawyer_detail_header">Lawyer details</string>
+    <string name="verified_background">Verified Background</string>
+    <string name="consultation">1st FREE CONSULTATION Available</string>
+    <string name="rating">Rating</string>
+    <string name="reviews">Reviews</string>
+    <string name="ranking">Ranking</string>
+    <string name="lorem_ipsum_desc">Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum</string>
+    <string name="label_another_info">Another Info</string>
+    <string name="lorem_title">Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum</string>
+    <string name="label_description">Description</string>
+    <string name="label_member_since">Member Since:</string>
+    <string name="avg_response_time">Avg. Response Time:</string>
+    <string name="label_name">Name</string>
+    <string name="label_surname">Surname</string>
+</resources>
